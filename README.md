@@ -15,12 +15,12 @@ The app is built using modern Android development principles:
 ---
 
 ## 🎥 Gameplay Preview
-<img src="https://github.com/Khonsaid/Quiz_Master/blob/master/quizmaster.gif" width="200">
+<img src="https://github.com/Khonsaid/Quiz_Master/blob/main/quizmaster.gif" width="200">
 
 ---
 
 ## 📥 Download
-You can download the APK file from here [here](https://github.com/Khonsaid/Quiz_Master/raw/master/QuizMaster.apk)
+You can download the APK file from here [here](https://github.com/Khonsaid/Quiz_Master/raw/main/QuizMaster.apk)
 
 ---
 
